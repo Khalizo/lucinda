@@ -1,0 +1,90 @@
+Column Letter,col,test_used,p_value,significance,TRUE_count_group1,TRUE_count_group2,higher_positives_group,group1_size,group2_size
+B_1,Patient:GenderCode_1,Chi-Squared Test,0.760626796,No significant difference,11847,1188,Group 1,17382,1753
+B_2,Patient:GenderCode_2,Chi-Squared Test,0.760626796,No significant difference,5535,565,Group 1,17382,1753
+C_1,PathwayDetails:CeIndication_1,Chi-Squared Test,2.13E-09,Significant difference,1101,48,Group 1,17382,1753
+C_2,PathwayDetails:CeIndication_2,Chi-Squared Test,3.91E-53,Significant difference,7650,438,Group 1,17382,1753
+C_3,PathwayDetails:CeIndication_3,Chi-Squared Test,4.15E-34,Significant difference,2598,76,Group 1,17382,1753
+C_4,PathwayDetails:CeIndication_4,Chi-Squared Test,4.34E-153,Significant difference,5757,1137,Group 1,17382,1753
+C_5,PathwayDetails:CeIndication_5,Chi-Squared Test,7.50E-06,Significant difference,276,54,Group 1,17382,1753
+E_1,Indications:IndicationSideCode_1,Chi-Squared Test,0.009054638,Significant difference,8367,786,Group 1,17382,1753
+E_2,Indications:IndicationSideCode_2,Chi-Squared Test,0.011463129,Significant difference,9003,964,Group 1,17382,1753
+E_3,Indications:IndicationSideCode_3,Fischer's Exact Test,0.152625569,No significant difference,12,3,Group 1,17382,1753
+F_1,Indications:CeStenosisIpsilCode_1.0,Chi-Squared Test,0.021945269,Significant difference,210,33,Group 1,17382,1753
+F_2,Indications:CeStenosisIpsilCode_2.0,Chi-Squared Test,0.372588988,No significant difference,4619,448,Group 1,17382,1753
+F_3,Indications:CeStenosisIpsilCode_3.0,Chi-Squared Test,0.151899096,No significant difference,7234,698,Group 1,17382,1753
+F_4,Indications:CeStenosisIpsilCode_4.0,Chi-Squared Test,0.097388434,No significant difference,5284,567,Group 1,17382,1753
+F_5,Indications:CeStenosisIpsilCode_5.0,Fischer's Exact Test,0.042228639,Significant difference,29,7,Group 1,17382,1753
+G_1,Indications:CeStenosisContraCode_0.0,Chi-Squared Test,1.26E-12,Significant difference,604,121,Group 1,17382,1753
+G_2,Indications:CeStenosisContraCode_1.0,Chi-Squared Test,0.000545261,Significant difference,7302,661,Group 1,17382,1753
+G_3,Indications:CeStenosisContraCode_2.0,Chi-Squared Test,0.825726072,No significant difference,1593,164,Group 1,17382,1753
+G_4,Indications:CeStenosisContraCode_3.0,Chi-Squared Test,0.651502105,No significant difference,790,75,Group 1,17382,1753
+G_5,Indications:CeStenosisContraCode_4.0,Chi-Squared Test,0.605301224,No significant difference,359,40,Group 1,17382,1753
+G_6,Indications:CeStenosisContraCode_5.0,Chi-Squared Test,0.48083489,No significant difference,470,53,Group 1,17382,1753
+G_7,Indications:CeStenosisContraCode_6.0,Fischer's Exact Test,1,No significant difference,1,0,Group 1,17382,1753
+H,Indications:PrevIpsilInd,Chi-Squared Test,9.00E-06,Significant difference,133,32,Group 1,17380,1753
+I,Indications:PrevContraInd,Chi-Squared Test,0.12196266,No significant difference,426,32,Group 1,11026,1109
+J_2,RiskScores:Comorbidities_7,Fischer's Exact Test,1,No significant difference,10,1,Group 1,17382,1753
+J_3,RiskScores:Comorbidities_2,Chi-Squared Test,0.584097448,No significant difference,13019,1302,Group 1,17382,1753
+J_4,RiskScores:Comorbidities_0,Chi-Squared Test,0.360172389,No significant difference,2312,219,Group 1,17382,1753
+J_5,RiskScores:Comorbidities_3,Chi-Squared Test,0.022038851,Significant difference,2705,310,Group 1,17382,1753
+J_6,RiskScores:Comorbidities_9,Chi-Squared Test,0.171041228,No significant difference,517,63,Group 1,17382,1753
+J_7,RiskScores:Comorbidities_5,Chi-Squared Test,0.361986526,No significant difference,512,59,Group 1,17382,1753
+J_8,RiskScores:Comorbidities_4,Chi-Squared Test,0.014862815,Significant difference,4823,535,Group 1,17382,1753
+J_9,RiskScores:Comorbidities_6,Chi-Squared Test,0.411811622,No significant difference,1404,152,Group 1,17382,1753
+J_10,RiskScores:Comorbidities_8,Chi-Squared Test,0.525591433,No significant difference,418,47,Group 1,17382,1753
+J_11,RiskScores:Comorbidities_1,Chi-Squared Test,1.81E-07,Significant difference,4090,511,Group 1,17382,1753
+K_1,RiskScores:SmokingStatus_1.0,Chi-Squared Test,0.004649686,Significant difference,4347,493,Group 1,17382,1753
+K_2,RiskScores:SmokingStatus_2.0,Chi-Squared Test,0.000670025,Significant difference,9065,839,Group 1,17382,1753
+K_3,RiskScores:SmokingStatus_3.0,Chi-Squared Test,0.253937167,No significant difference,3931,418,Group 1,17382,1753
+N,RiskScores:AtrialFibrillation,Chi-Squared Test,0.027086477,Significant difference,1727,204,Group 1,17379,1753
+P_2,RiskScores:Medication_7,Chi-Squared Test,0.570217794,No significant difference,1005,95,Group 1,17382,1753
+P_3,RiskScores:Medication_2,Chi-Squared Test,0.036529723,Significant difference,14845,1464,Group 1,17382,1753
+P_4,RiskScores:Medication_0,Chi-Squared Test,0.012915831,Significant difference,187,31,Group 1,17382,1753
+P_5,RiskScores:Medication_3,Chi-Squared Test,1.22E-09,Significant difference,4006,518,Group 1,17382,1753
+P_6,RiskScores:Medication_9,Chi-Squared Test,0.075079861,No significant difference,3827,419,Group 1,17382,1753
+P_7,RiskScores:Medication_5,Chi-Squared Test,3.13E-19,Significant difference,9819,794,Group 1,17382,1753
+P_8,RiskScores:Medication_4,Chi-Squared Test,0.090950029,No significant difference,6469,616,Group 1,17382,1753
+P_9,RiskScores:Medication_6,Chi-Squared Test,5.33E-15,Significant difference,9419,778,Group 1,17382,1753
+P_10,RiskScores:Medication_8,Chi-Squared Test,0.01541869,Significant difference,5665,521,Group 1,17382,1753
+P_11,RiskScores:Medication_1,Chi-Squared Test,1,No significant difference,6178,623,Group 1,17382,1753
+Q_2,RiskScores:PeriopMedCode_2,Chi-Squared Test,0.007187857,Significant difference,1998,240,Group 1,17382,1753
+Q_3,RiskScores:PeriopMedCode_1,Chi-Squared Test,4.39E-11,Significant difference,173,49,Group 1,17382,1753
+Q_4,RiskScores:PeriopMedCode_3,Chi-Squared Test,0.000217336,Significant difference,1684,219,Group 1,17382,1753
+R,RiskScores:ThrombolysisPreoperative,Chi-Squared Test,3.52E-37,Significant difference,729,194,Group 1,17381,1753
+U_2,Anaesthesia:AnaestheticTypeCodes_7,Chi-Squared Test,1.10E-05,Significant difference,2624,335,Group 1,17382,1753
+U_3,Anaesthesia:AnaestheticTypeCodes_2,Chi-Squared Test,0.190698381,No significant difference,585,70,Group 1,17382,1753
+U_4,Anaesthesia:AnaestheticTypeCodes_3,Chi-Squared Test,0.00065923,Significant difference,11719,1111,Group 1,17382,1753
+U_5,Anaesthesia:AnaestheticTypeCodes_9,Fischer's Exact Test,1,No significant difference,1,0,Group 1,17382,1753
+U_6,Anaesthesia:AnaestheticTypeCodes_5,Chi-Squared Test,0.654720156,No significant difference,325,36,Group 1,17382,1753
+U_7,Anaesthesia:AnaestheticTypeCodes_11,Chi-Squared Test,1.49E-10,Significant difference,2532,157,Group 1,17382,1753
+U_8,Anaesthesia:AnaestheticTypeCodes_4,Chi-Squared Test,0.143388115,No significant difference,421,53,Group 1,17382,1753
+U_9,Anaesthesia:AnaestheticTypeCodes_6,Chi-Squared Test,0.682459633,No significant difference,55,4,Group 1,17382,1753
+U_10,Anaesthesia:AnaestheticTypeCodes_12,Chi-Squared Test,0.211365801,No significant difference,941,82,Group 1,17382,1753
+U_11,Anaesthesia:AnaestheticTypeCodes_8,Fischer's Exact Test,1,No significant difference,1,0,Group 1,17382,1753
+U_12,Anaesthesia:AnaestheticTypeCodes_1,Chi-Squared Test,0.059118642,No significant difference,1405,165,Group 1,17382,1753
+V_1,CarotidEndar:IpsilTypeCode_1,Chi-Squared Test,0.000210301,Significant difference,1464,194,Group 1,17382,1753
+V_2,CarotidEndar:IpsilTypeCode_2,Chi-Squared Test,0.000694541,Significant difference,14922,1452,Group 1,17382,1753
+V_3,CarotidEndar:IpsilTypeCode_3,Chi-Squared Test,0.557759971,No significant difference,996,107,Group 1,17382,1753
+W,CarotidEndar:IpsilShuntInd,Chi-Squared Test,1.52E-08,Significant difference,10394,925,Group 1,17381,1752
+X_1,PostOp:ProcDestCode_1.0,Chi-Squared Test,4.17E-07,Significant difference,10186,917,Group 1,17382,1753
+X_2,PostOp:ProcDestCode_2.0,Chi-Squared Test,1.79E-05,Significant difference,6834,782,Group 1,17382,1753
+X_3,PostOp:ProcDestCode_4.0,Chi-Squared Test,0.011446629,Significant difference,360,53,Group 1,17382,1753
+Z,PostOp:CompReturnTheatreInd,Chi-Squared Test,0.706587425,No significant difference,464,50,Group 1,17379,1752
+AA,PostOp:CompCcReadmissionInd,Chi-Squared Test,0.001753568,Significant difference,172,32,Group 1,17382,1752
+AB_2,PostOp:CompConditionCodes_17,Chi-Squared Test,0.036375287,Significant difference,435,59,Group 1,17382,1753
+AB_3,PostOp:CompConditionCodes_2,Chi-Squared Test,9.44E-07,Significant difference,110,30,Group 1,17382,1753
+AB_4,PostOp:CompConditionCodes_0,Chi-Squared Test,5.25E-09,Significant difference,16103,1555,Group 1,17382,1753
+AB_5,PostOp:CompConditionCodes_3,Chi-Squared Test,2.31E-05,Significant difference,177,38,Group 1,17382,1753
+AB_6,PostOp:CompConditionCodes_13,Chi-Squared Test,0.001443064,Significant difference,52,14,Group 1,17382,1753
+AB_7,PostOp:CompConditionCodes_5,Chi-Squared Test,0.836194249,No significant difference,378,40,Group 1,17382,1753
+AB_8,PostOp:CompConditionCodes_15,Fischer's Exact Test,0.013798573,Significant difference,22,7,Group 1,17382,1753
+AB_9,PostOp:CompConditionCodes_4,Fischer's Exact Test,1,No significant difference,21,2,Group 1,17382,1753
+AB_10,PostOp:CompConditionCodes_18,Fischer's Exact Test,0.389124247,No significant difference,15,0,Group 1,17382,1753
+AB_11,PostOp:CompConditionCodes_1,Chi-Squared Test,0.015830283,Significant difference,182,30,Group 1,17382,1753
+AC_1,PostOp:StrokeTypeCode_1.0,Fischer's Exact Test,0.129273386,No significant difference,5,2,Group 1,17382,1753
+AC_2,PostOp:StrokeTypeCode_2.0,Fischer's Exact Test,0.004581043,Significant difference,17,7,Group 1,17382,1753
+AD,PostOp:CompCnInjuryInd,Chi-Squared Test,0.257267148,No significant difference,361,29,Group 1,17290,1753
+AE,NvrEpisode:DischargeStatusCode,Chi-Squared Test,5.04E-05,Significant difference,17327,1736,Group 1,17382,1753
+AG,FollowUp:Readmission30DaysInd,Chi-Squared Test,0.031388523,Significant difference,713,91,Group 1,16612,1667
+AH,FollowUp:CeFuClinicStrokeInd,Chi-Squared Test,0.000139455,Significant difference,158,33,Group 1,17248,1731
+AI,FollowUp:DiedWithin30Days,Chi-Squared Test,0.92003477,No significant difference,52,6,Group 1,10972,1099

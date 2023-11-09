@@ -1,0 +1,9 @@
+Column Letter,col,test_used,p_value,significance,avg_group1,avg_group2,higher_avg_group,group1_size,group2_size
+A,Patient:AgeAtSurgery,Mann-Whitney U test,0.492053746,No significant difference,71.81543728,71.43242009,Group 1,17380,1752
+L,RiskScores:Creatinine,Mann-Whitney U test,0.471853061,No significant difference,88.76841135,90.83342841,Group 2,17367,1753
+M,RiskScores:ASA,Mann-Whitney U test,3.08E-64,Significant difference,2.783441689,3.002281803,Group 2,17381,1753
+S,RiskScores:PatientFrailty,Mann-Whitney U test,5.52E-249,Significant difference,1.303895475,2.179245283,Group 2,8266,848
+T,DaysFromSymptomToSurgery,Mann-Whitney U test,0.663245486,No significant difference,24.04625239,25.6152033,Group 2,16237,1697
+Y,PostOp:CriticalCareStayDays,Mann-Whitney U test,6.30E-31,Significant difference,0.41851277,0.705965909,Group 2,14174,1408
+AF,LengthOfStay,Mann-Whitney U test,1.05E-107,Significant difference,4.613853412,9.118653736,Group 2,17382,1753
+AJ,DaysDischargeToFollowUp,Mann-Whitney U test,0.117079058,No significant difference,61.73740885,61.76115486,Group 2,11794,1143
